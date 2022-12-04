@@ -4,7 +4,7 @@
   }
 
 body {
-    background-color: white;
+    background-color: hsl(215, 20%, 76%);
     margin-left: 0px;
     display: flex;
     align-items: center;
@@ -112,6 +112,7 @@ p.lists {
 }
 
 .major1 {
+    background-color: white;
     border-radius: 7px;
     box-shadow: 1px 1px 1px 1px rgb(169, 168, 168);
     display: flex;
