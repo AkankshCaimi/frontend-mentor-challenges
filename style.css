@@ -4,7 +4,7 @@
   }
 
 body {
-    background-color: hsl(215, 20%, 76%);
+    background-color: rgb(182, 192, 206);
     margin-left: 0px;
     display: flex;
     align-items: center;
